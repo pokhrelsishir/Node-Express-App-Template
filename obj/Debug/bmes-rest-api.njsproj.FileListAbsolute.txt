@@ -1,0 +1,2 @@
+C:\Users\pokhr\Desktop\Building Materials E-Store App\bmes-rest-api\obj\Debug\bmes-rest-api.njsprojAssemblyReference.cache
+C:\Users\pokhr\Desktop\Building Materials E-Store App\bmes-rest-api\bin\Microsoft.NodejsTools.WebRole.dll
